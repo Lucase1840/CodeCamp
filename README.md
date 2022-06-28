@@ -59,8 +59,17 @@ This website includes all of the typical e-commerce features, such as a shopping
 
 First clone the repository in your PC.
 
+Create a .env file on the root of the api folder and writte the following information:
+
+DB_USER = "postgres"
+DB_PASSWORD = "yourpassword"
+DB_HOST = "127.0.0.1"
+DB_NAME = "marketplace"
+DB_DIALECT = "postgres"
+DB_PORT = 5432
+
 Open a git-bash terminal in both "client" and "api" folders, and type "npm install" . 
 
 Finally, type "npm start" on both termials and wait for the browser to open the website.
 
-Hope you like it!
+Hope you enjoy it!

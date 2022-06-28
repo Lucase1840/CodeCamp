@@ -67,7 +67,6 @@ DB_HOST = "127.0.0.1"<br></br>
 DB_NAME = "marketplace"<br></br>
 DB_DIALECT = "postgres"<br></br>
 DB_PORT = 5432<br></br>
-
 Open a git-bash terminal in both "client" and "api" folders, and type "npm install" . 
 
 Finally, type "npm start" on both termials and wait for the browser to open the website.

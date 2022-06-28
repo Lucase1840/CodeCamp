@@ -13,7 +13,7 @@ This App was developed using the SCRUM methodology and GIT
 
 ## See it for yourself!:
 
-<a href='https://tfp-art04-client.vercel.app/'></a>
+<a href='https://tfp-art04-client.vercel.app/'>Link to CodeCamp</a>
 
 ## Some of the things we've learned building this App:
 

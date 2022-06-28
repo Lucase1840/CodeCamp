@@ -61,12 +61,12 @@ First clone the repository in your PC.
 
 Create a .env file on the root of the api folder and writte the following information:
 
-DB_USER = "postgres"
-DB_PASSWORD = "yourpassword"
-DB_HOST = "127.0.0.1"
-DB_NAME = "marketplace"
-DB_DIALECT = "postgres"
-DB_PORT = 5432
+DB_USER = "postgres"<br></br>
+DB_PASSWORD = "yourpassword"<br></br>
+DB_HOST = "127.0.0.1"<br></br>
+DB_NAME = "marketplace"<br></br>
+DB_DIALECT = "postgres"<br></br>
+DB_PORT = 5432<br></br>
 
 Open a git-bash terminal in both "client" and "api" folders, and type "npm install" . 
 

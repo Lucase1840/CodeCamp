@@ -1,6 +1,8 @@
 # CodeCamp (e-commerce)
 
 <img alt='asd' src='https://github.com/Lucase1840/CodeCamp/blob/main/CLIENT/public/ReadMe_img/landing.jpg'/>
+<br></br>
+<img alt='asd' src='https://github.com/Lucase1840/CodeCamp/blob/main/CLIENT/public/ReadMe_img/landing.jpg'/>
 
 ## The project:
 

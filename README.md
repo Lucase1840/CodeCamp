@@ -57,9 +57,9 @@ This website includes all of the typical e-commerce features, such as a shopping
 
 ## To execute the app in your computer browser:
 
-First clone the repository in your PC.
+- First clone the repository in your PC.
 
-Create a .env file on the root of the api folder and writte the following information:
+- Create a .env file on the root of the api folder and writte the following information:
 
 DB_USER = "postgres"<br></br>
 DB_PASSWORD = "yourpassword"<br></br>
@@ -67,8 +67,8 @@ DB_HOST = "127.0.0.1"<br></br>
 DB_NAME = "marketplace"<br></br>
 DB_DIALECT = "postgres"<br></br>
 DB_PORT = 5432<br></br>
-Open a git-bash terminal in both "client" and "api" folders, and type "npm install" . 
+- Open a git-bash terminal in both "client" and "api" folders, and type "npm install" . 
 
-Finally, type "npm start" on both termials and wait for the browser to open the website.
+- Finally, type "npm start" on both termials and wait for the browser to open the website.
 
-Hope you enjoy it!
+- Hope you enjoy it!

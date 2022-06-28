@@ -1,6 +1,6 @@
 # CodeCamp (e-commerce)
 
-<img alt='scr' src='https://github.com/Lucase1840/CodeCamp/edit/main/README.md'/>
+<img alt='asd' src='(https://github.com/Lucase1840/CodeCamp/blob/main/CLIENT/public/ReadMe_img/landing.jpg'/>
 
 ## The project:
 
